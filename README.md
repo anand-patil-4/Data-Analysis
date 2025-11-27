@@ -1,4 +1,4 @@
-📊 Tech Accessories Sales Data Analysis (2020–2022)
+📊 **Tech Accessories Sales Data Analysis (2020–2022)**
 
 This project presents an interactive Power BI dashboard built to analyze Tech Accessories Sales Data from 2020 to 2022. The dataset contains detailed records of product categories, brands, supervisors, states, quantities sold, and financial metrics.
 The dashboard provides an insightful visual summary of sales performance, profitability, and geographic distribution across India.
